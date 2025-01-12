@@ -124,7 +124,7 @@ const Registration = ({ data }: Registration) => {
 
   return (
     <section className='mx-auto bg-violet-900 px-2 md:w-3/4 md:rounded-xl flex-col lg:flex items-center py-8 lg:my-10 text-center [&_i]:hidden xl:[&_i]:block [&_select]:py-2 my-10 [&_label]:text-xl xl:[&_label]:text-2xl '>
-      <h1 className='text-white text-3xl lg:text-5xl lg:pb-5'>Sukkot 2024 Registration</h1>
+      <h1 className='text-white text-3xl lg:text-5xl lg:pb-5'>Pesach 2025 Registration</h1>
 
       <form
         method='POST'
