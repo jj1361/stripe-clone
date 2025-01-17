@@ -128,6 +128,134 @@ const Registration = ({ data }: Registration) => {
   return (
     <section className='mx-auto bg-violet-900 px-2 md:w-3/4 md:rounded-xl flex-col lg:flex items-center py-8 lg:my-10 text-center [&_i]:hidden xl:[&_i]:block [&_select]:py-2 my-10 [&_label]:text-xl xl:[&_label]:text-2xl '>
       <h1 className='text-white text-3xl lg:text-5xl lg:pb-5'>Registration</h1>
+       <div class="projcard-container">
+    
+    <div class="projcard projcard-blue">
+      <div class="projcard-innerbox">
+        <img class="projcard-img" src="/dist/gosh1.png" />
+        <div class="projcard-textbox">
+          <div class="projcard-title">Goshen Group</div>
+          <div class="projcard-subtitle">Pesach 2025</div>
+          <div class="projcard-bar"></div>
+          <div class="projcard-description">
+            <p><b>Location: </b> Cape Girardea, Mo</p>            
+            <p><b>Date: </b>April 11 - April 19</p>
+            <p><b><u>Registration</u></b></p>
+            <p><b>Seniors (70+): </b>Free, <b>Adults: </b>$55,  <b>Youth: </b>$55, <b>Children (5 & Under): </b>Free</p>
+            <p> <b>Seniors (6-12): </b>$20</p>
+            <p><b>Seniors: </b>Free</p>
+        </div>
+         
+        </div>
+      </div>
+    </div>
+    <section class="articles">
+        <article>
+          <div class="article-wrapper">
+            <figure>
+              <img src="/dist/hotels.png" alt="" />
+            </figure>
+            <div class="article-body">
+              <h2>Fairfield Inn & Suites</h2>
+              <h3>Check In: Apr 11, 2025</h3>
+              <h3>Check Out: Apr 19, 2025</h3>
+              <p>433 Cape West Crossings</p>
+              <p>Cape Girardeau, MO 63703</p>
+              <p>(573) 388-8148)</p>
+              <a href="#" class="read-more">
+                Read more <span class="sr-only">about this is some title</span>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 20 20" fill="currentColor">
+                  <path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                </svg>
+              </a>
+            </div>
+          </div>
+        </article>
+        <article>
+            <div class="article-wrapper">
+              <figure>
+                <img src="/dist/hotels2.png" alt="" />
+              </figure>
+              <div class="article-body">
+                <h2>Candlewood Suites</h2>
+                <h3>Check In: Apr 11, 2025</h3>
+                <h3>Check Out: Apr 19, 2025</h3>
+                <p>485 S. Mt Auburn Rd</p>
+                <p>Cape Girardeau, MO 63703</p>
+                <p>(573) 334-6868)</p>
+                <a href="#" class="read-more">
+                  Read more <span class="sr-only">about this is some title</span>
+                  <svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 20 20" fill="currentColor">
+                    <path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                  </svg>
+                </a>
+              </div>
+            </div>
+          </article>
+        <article>
+     
+        </article>
+      </section>
+
+
+    
+    <div class="projcard projcard-red">
+      <div class="projcard-innerbox">
+        <img class="projcard-img" src="/dist/hotels.png" />
+        <div class="projcard-textbox">
+          <div class="projcard-title">Hotel Accomidations</div>
+          <div class="projcard-subtitle">Fairfield Inn & Suites</div>
+          <div class="projcard-bar"></div>
+          <div class="projcard-description">
+            <p>433 Cape West Crossing</p> 
+            <p>Cape Girardeau, Mo</p>
+            <p>(573) 388-8148</p>
+            <p><b>Check-In: </b>April 11,2025 <b> Check-Out: </b>April 19,2025</p>
+        </div>
+          <div class="projcard-tagbox">
+            <span class="projcard-tag">PHP</span>
+            <span class="projcard-tag">SQL</span>
+            <span class="projcard-tag">Database</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="projcard projcard-green">
+      <div class="projcard-innerbox">
+        <img class="projcard-img" src="https://picsum.photos/800/600?image=1039" />
+        <div class="projcard-textbox">
+          <div class="projcard-title">And a Third Card</div>
+          <div class="projcard-subtitle">You know what this is by now</div>
+          <div class="projcard-bar"></div>
+          <div class="projcard-description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.</div>
+          <div class="projcard-tagbox">
+            <span class="projcard-tag">Excel</span>
+            <span class="projcard-tag">VBA</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="projcard projcard-customcolor" style="--projcard-color: #F5AF41">
+      <div class="projcard-innerbox">
+        <img class="projcard-img" src="https://picsum.photos/800/600?image=943" />
+        <div class="projcard-textbox">
+          <div class="projcard-title">Last Card</div>
+          <div class="projcard-subtitle">That's the last one. Have a nice day!</div>
+          <div class="projcard-bar"></div>
+          <div class="projcard-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</div>
+          <div class="projcard-tagbox">
+            <span class="projcard-tag">iOS</span>
+            <span class="projcard-tag">Android</span>
+            <span class="projcard-tag">Cordova</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+
 
       <form
         method='POST'
@@ -424,6 +552,14 @@ const Registration = ({ data }: Registration) => {
           CHECKOUT
         </button>
       </form>
+            <script>
+ 
+// This adds some nice ellipsis to the description:
+document.querySelectorAll(".projcard-description").forEach(function(box) {
+  $clamp(box, {clamp: 6});
+});
+
+</script>
     </section>
   );
 };
