@@ -61,7 +61,7 @@ export default async function handler(req, res, ) {
                      value: '100625',
                    },
                    {
-                     label: 'Tuesday, Oct. 7, 2025'',
+                     label: 'Tuesday, Oct. 7, 2025',
                      value: '100725',
                    },
                    {
@@ -97,7 +97,7 @@ export default async function handler(req, res, ) {
                dropdown: {
                  options: [
                    {
-                     label: 'Tuesday, Oct. 7, 2025'',
+                     label: 'Tuesday, Oct. 7, 2025',
                      value: '100725',
                    },
                    {
