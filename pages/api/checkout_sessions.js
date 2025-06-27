@@ -526,11 +526,11 @@ export default async function handler(req, res, ) {
                   value: '101225',
                 },
                 {
-                  label: 'Sunday, Oct. 13, 2025',
+                  label: 'Monday, Oct. 13, 2025',
                   value: '101325',
                 },
                 {
-                  label: 'Monday, Oct. 14, 2025',
+                  label: 'Tuesday, Oct. 14, 2025',
                   value: '101425',
                 },
               ],
@@ -1029,11 +1029,11 @@ export default async function handler(req, res, ) {
                   value: '101225',
                 },
                 {
-                  label: 'Sunday, Oct. 13, 2025',
+                  label: 'Monday, Oct. 13, 2025',
                   value: '101325',
                 },
                 {
-                  label: 'Monday, Oct. 14, 2025',
+                  label: 'Tuesday, Oct. 14, 2025',
                   value: '101425',
                 },
               ],
@@ -1165,11 +1165,11 @@ export default async function handler(req, res, ) {
                   value: '101125',
                 },
                 {
-                  label: 'Sunday, Oct. 13, 2025',
+                  label: 'Monday, Oct. 13, 2025',
                   value: '101325',
                 },
                 {
-                  label: 'Monday, Oct. 14, 2025',
+                  label: 'Tuesday, Oct. 14, 2025',
                   value: '101425',
                 },
               ],
@@ -1294,11 +1294,11 @@ export default async function handler(req, res, ) {
                   value: '101225',
                 },
                 {
-                  label: 'Sunday, Oct. 13, 2025',
+                  label: 'Monday, Oct. 13, 2025',
                   value: '101325',
                 },
                 {
-                  label: 'Monday, Oct. 14, 2025',
+                  label: 'Tuesday, Oct. 14, 2025',
                   value: '101425',
                 },
               ],
@@ -1414,11 +1414,11 @@ export default async function handler(req, res, ) {
                   value: '101225',
                 },
                 {
-                  label: 'Sunday, Oct. 13, 2025',
+                  label: 'Monday, Oct. 13, 2025',
                   value: '101325',
                 },
                 {
-                  label: 'Monday, Oct. 14, 2025',
+                  label: 'Tuesday, Oct. 14, 2025',
                   value: '101425',
                 },
               ],
@@ -1542,11 +1542,11 @@ export default async function handler(req, res, ) {
                   value: '101225',
                 },
                 {
-                  label: 'Sunday, Oct. 13, 2025',
+                  label: 'Monday, Oct. 13, 2025',
                   value: '101325',
                 },
                 {
-                  label: 'Monday, Oct. 14, 2025',
+                  label: 'Tuesday, Oct. 14, 2025',
                   value: '101425',
                 },
               ],
@@ -1678,11 +1678,11 @@ export default async function handler(req, res, ) {
                   value: '101225',
                 },
                 {
-                  label: 'Sunday, Oct. 13, 2025',
+                  label: 'Monday, Oct. 13, 2025',
                   value: '101325',
                 },
                 {
-                  label: 'Monday, Oct. 14, 2025',
+                  label: 'Tuesday, Oct. 14, 2025',
                   value: '101425',
                 },
               ],
@@ -1814,11 +1814,11 @@ export default async function handler(req, res, ) {
                   value: '101225',
                 },
                 {
-                  label: 'Sunday, Oct. 13, 2025',
+                  label: 'Monday, Oct. 13, 2025',
                   value: '101325',
                 },
                 {
-                  label: 'Monday, Oct. 14, 2025',
+                  label: 'Tuesday, Oct. 14, 2025',
                   value: '101425',
                 },
               ],
@@ -1934,11 +1934,11 @@ export default async function handler(req, res, ) {
                   value: '101225',
                 },
                 {
-                  label: 'Sunday, Oct. 13, 2025',
+                  label: 'Monday, Oct. 13, 2025',
                   value: '101325',
                 },
                 {
-                  label: 'Monday, Oct. 14, 2025',
+                  label: 'Tuesday, Oct. 14, 2025',
                   value: '101425',
                 },
               ],
@@ -2062,11 +2062,11 @@ export default async function handler(req, res, ) {
                   value: '101225',
                 },
                 {
-                  label: 'Sunday, Oct. 13, 2025',
+                  label: 'Monday, Oct. 13, 2025',
                   value: '101325',
                 },
                 {
-                  label: 'Monday, Oct. 14, 2025',
+                  label: 'Tuesday, Oct. 14, 2025',
                   value: '101425',
                 },
               ],
@@ -2198,11 +2198,11 @@ export default async function handler(req, res, ) {
                   value: '101225',
                 },
                 {
-                  label: 'Sunday, Oct. 13, 2025',
+                  label: 'Monday, Oct. 13, 2025',
                   value: '101325',
                 },
                 {
-                  label: 'Monday, Oct. 14, 2025',
+                  label: 'Tuesday, Oct. 14, 2025',
                   value: '101425',
                 },
               ],
@@ -2329,11 +2329,11 @@ export default async function handler(req, res, ) {
                   value: '101225',
                 },
                 {
-                  label: 'Sunday, Oct. 13, 2025',
+                  label: 'Monday, Oct. 13, 2025',
                   value: '101325',
                 },
                 {
-                  label: 'Monday, Oct. 14, 2025',
+                  label: 'Tuesday, Oct. 14, 2025',
                   value: '101425',
                 },
               ],
