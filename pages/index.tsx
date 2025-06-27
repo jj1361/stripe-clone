@@ -222,7 +222,7 @@ const Registration = ({ data }: Registration) => {
           </select>
         </div>
         <div className='grid xl:flex   lg:text-2xl'>
-          <label htmlFor='select'>Number of Children (0 - 6): </label>
+          <label htmlFor='select'>Number of Children (0 - 5): </label>
 
           <i
             className='bx bx-child  lg:text-5xl'
