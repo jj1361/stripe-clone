@@ -121,7 +121,7 @@ export default async function handler(req, res, ) {
                      value: '101225',
                    },
                    {
-                     label: 'Monday, Oct. 14, 2025',
+                     label: 'Monday, Oct. 13, 2025',
                      value: '101325',
                    },
                    {
