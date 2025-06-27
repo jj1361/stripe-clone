@@ -510,19 +510,19 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thursday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101225',
                 },
                 {
@@ -599,19 +599,19 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thurday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101225',
                 },
               ],
@@ -635,27 +635,27 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thursday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101225',
                 },
                 {
-                  label: 'Sunday, Oct. 13, 2025',
+                  label: 'Monday, Oct. 13, 2025',
                   value: '101325',
                 },
                 {
-                  label: 'Monday, Oct. 14, 2025',
+                  label: 'Tuesday, Oct. 14, 2025',
                   value: '101425',
                 },
               ],
@@ -729,19 +729,19 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thursday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101225',
                 },
               ],
@@ -765,27 +765,27 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thursday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101225',
                 },
                 {
-                  label: 'Sunday, Oct. 13, 2025',
+                  label: 'Monday, Oct. 13, 2025',
                   value: '101325',
                 },
                 {
-                  label: 'Monday, Oct. 14, 2025',
+                  label: 'Tuesday, Oct. 14, 2025',
                   value: '101425',
                 },
               ],
@@ -849,19 +849,19 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thursday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101225',
                 },
               ],
@@ -885,27 +885,27 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thursday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101225',
                 },
                 {
-                  label: 'Sunday, Oct. 13, 2025',
+                  label: 'Monday, Oct. 13, 2025',
                   value: '101325',
                 },
                 {
-                  label: 'Monday, Oct. 14, 2025',
+                  label: 'Tuesday, Oct. 14, 2025',
                   value: '101425',
                 },
               ],
@@ -977,19 +977,19 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thursday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101225',
                 },
               ],
@@ -1013,19 +1013,19 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thursday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101225',
                 },
                 {
@@ -1113,19 +1113,19 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thursday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101125',
                 },
               ],
@@ -1149,19 +1149,19 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thursday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101125',
                 },
                 {
@@ -1242,19 +1242,19 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thursday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101225',
                 },
               ],
@@ -1278,19 +1278,19 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thursday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101225',
                 },
                 {
@@ -1362,19 +1362,19 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thursday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101225',
                 },
               ],
@@ -1398,19 +1398,19 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thursday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101225',
                 },
                 {
@@ -1490,19 +1490,19 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thursday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101225',
                 },
               ],
@@ -1526,19 +1526,19 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thursday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101225',
                 },
                 {
@@ -1626,19 +1626,19 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thursday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101225',
                 },
               ],
@@ -1662,19 +1662,19 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thursday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101225',
                 },
                 {
@@ -1762,19 +1762,19 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thursday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101225',
                 },
               ],
@@ -1798,19 +1798,19 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thursday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101225',
                 },
                 {
@@ -1882,19 +1882,19 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thursday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101225',
                 },
               ],
@@ -1918,19 +1918,19 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thursday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101225',
                 },
                 {
@@ -2010,19 +2010,19 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thursday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101225',
                 },
               ],
@@ -2046,19 +2046,19 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thursday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101225',
                 },
                 {
@@ -2146,19 +2146,19 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thursday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101225',
                 },
               ],
@@ -2182,19 +2182,19 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thursday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101225',
                 },
                 {
@@ -2277,19 +2277,19 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thursday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101225',
                 },
               ],
@@ -2313,19 +2313,19 @@ export default async function handler(req, res, ) {
                   value: '100825',
                 },
                 {
-                  label: 'Wednesday, Oct. 9, 2025',
+                  label: 'Thursday, Oct. 9, 2025',
                   value: '100925',
                 },
                 {
-                  label: 'Thursday, Oct. 10, 2025',
+                  label: 'Friday, Oct. 10, 2025',
                   value: '101025',
                 },
                 {
-                  label: 'Friday, Oct. 11, 2025',
+                  label: 'Saturday, Oct. 11, 2025',
                   value: '101125',
                 },
                 {
-                  label: 'Saturday, Oct. 12, 2025',
+                  label: 'Sunday, Oct. 12, 2025',
                   value: '101225',
                 },
                 {
