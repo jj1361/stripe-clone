@@ -1,5 +1,5 @@
 // const stripe = require('stripe')(JSON.stringify((process.env.STRIPE_SECRET_KEY)));
-//modified fri June 27 for sukkot
+//modified Fri June 27 for sukkot
 'useclient'
 const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY);
 
