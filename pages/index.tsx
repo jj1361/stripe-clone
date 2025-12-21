@@ -136,7 +136,7 @@ const Registration = ({ data }: Registration) => {
         <div id='name-error' className='text-yellow-200 text-lg hidden '></div>
        
         <div className='grid xl:flex '>
-          <label htmlFor='select'>Number of Adults/Teens (13 - 69): </label>
+          <label htmlFor='select'>Number of Adults/Teens (13 - 64): </label>
 
           <i
             className='bx bx-male-female lg:text-5xl'
