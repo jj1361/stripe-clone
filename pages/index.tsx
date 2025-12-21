@@ -265,7 +265,7 @@ const Registration = ({ data }: Registration) => {
           </select>
         </div>
         <div className='grid xl:flex  lg:text-2xl'>
-          <label htmlFor='select'>Number of Seniors (70+): </label>
+          <label htmlFor='select'>Number of Seniors (65+): </label>
           <i
             className='bx bx-male-female lg:text-5xl'
             style={{ color: '#ffffff' }}
