@@ -74,7 +74,7 @@ export default async function handler(req, res, ) {
                    },
                    {
                      label: 'Wednesday, Sep. 30, 2026',
-                     value: '100126',
+                     value: '093026',
                    },
                    {
                      label: 'Thursday, Oct. 1, 2026',
@@ -1211,7 +1211,7 @@ export default async function handler(req, res, ) {
                 },
                 {
                   label: 'Wednesday, Sep. 30, 2026',
-                  value: '100126',
+                  value: '093026',
                 },
                 {
                   label: 'Thursday, Oct. 1, 2026',
