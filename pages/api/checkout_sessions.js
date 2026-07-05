@@ -84,6 +84,15 @@ export default async function handler(req, res, ) {
                      label: 'Friday, Oct. 2, 2026',
                      value: '100226',
                    },
+                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
+                   
                  ],
                },
              },
@@ -119,6 +128,14 @@ export default async function handler(req, res, ) {
                    {
                      label: 'Friday, Oct. 2, 2026',
                      value: '100226',
+                   },
+                                      {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
                    },
                  ],
                },
@@ -202,6 +219,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                    {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -238,6 +263,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -326,6 +359,14 @@ export default async function handler(req, res, ) {
                   label: 'Sunday Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -362,6 +403,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -463,6 +512,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -501,6 +558,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -582,6 +647,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -618,6 +691,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -704,6 +785,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -740,6 +829,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -816,6 +913,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -852,6 +957,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -936,6 +1049,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -972,6 +1093,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -1064,6 +1193,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -1100,6 +1237,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -1185,6 +1330,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -1221,6 +1374,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -1297,6 +1458,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -1333,6 +1502,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -1417,6 +1594,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -1453,6 +1638,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -1545,6 +1738,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -1581,6 +1782,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -1673,6 +1882,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -1709,6 +1926,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -1785,6 +2010,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -1821,6 +2054,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
 
               ],
             },
@@ -1906,6 +2147,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -1942,6 +2191,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -2034,6 +2291,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -2070,6 +2335,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -2157,6 +2430,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
@@ -2193,6 +2474,14 @@ export default async function handler(req, res, ) {
                   label: 'Friday, Oct. 2, 2026',
                   value: '100226',
                 },
+                                   {
+                     label: 'Saturday, Oct. 3, 2026',
+                     value: '100326',
+                   },
+                   {
+                     label: 'Sunday, Oct. 4, 2026',
+                     value: '100426',
+                   },
               ],
             },
           },
