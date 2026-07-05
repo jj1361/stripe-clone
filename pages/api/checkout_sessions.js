@@ -356,7 +356,7 @@ export default async function handler(req, res, ) {
                 },
                 {
                   label: 'Thursday, Oct. 1, 2026',
-                  value: '100226',
+                  value: '100126',
                 },
                 {
                   label: 'Friday, Oct. 2, 2026',
@@ -457,7 +457,7 @@ export default async function handler(req, res, ) {
                 },
                 {
                   label: 'Thursday, Oct. 1, 2026',
-                  value: '100226',
+                  value: '100126',
                 },
                 {
                   label: 'Friday, Oct. 2, 2026',
@@ -495,7 +495,7 @@ export default async function handler(req, res, ) {
                 },
                 {
                   label: 'Thursday, Oct. 1, 2026',
-                  value: '100226',
+                  value: '100126',
                 },
                 {
                   label: 'Friday, Oct. 2, 2026',
@@ -576,7 +576,7 @@ export default async function handler(req, res, ) {
                 },
                 {
                   label: 'Thursday, Oct. 1, 2026',
-                  value: '100226',
+                  value: '100126',
                 },
                 {
                   label: 'Friday, Oct. 2, 2026',
@@ -612,7 +612,7 @@ export default async function handler(req, res, ) {
                 },
                 {
                   label: 'Thursday, Oct. 1, 2026',
-                  value: '100226',
+                  value: '100126',
                 },
                 {
                   label: 'Friday, Oct. 2, 2026',
@@ -698,7 +698,7 @@ export default async function handler(req, res, ) {
                 },
                 {
                   label: 'Thursday, Oct. 1, 2026',
-                  value: '100226',
+                  value: '100126',
                 },
                 {
                   label: 'Friday, Oct. 2, 2026',
@@ -734,7 +734,7 @@ export default async function handler(req, res, ) {
                 },
                 {
                   label: 'Thursday, Oct. 1, 2026',
-                  value: '100226',
+                  value: '100126',
                 },
                 {
                   label: 'Friday, Oct. 2, 2026',
@@ -810,7 +810,7 @@ export default async function handler(req, res, ) {
                 },
                 {
                   label: 'Thursday, Oct. 1, 2026',
-                  value: '100226',
+                  value: '100126',
                 },
                 {
                   label: 'Friday, Oct. 2, 2026',
@@ -846,7 +846,7 @@ export default async function handler(req, res, ) {
                 },
                 {
                   label: 'Thursday, Oct. 1, 2026',
-                  value: '100226',
+                  value: '100126',
                 },
                 {
                   label: 'Friday, Oct. 2, 2026',
@@ -930,7 +930,7 @@ export default async function handler(req, res, ) {
                 },
                 {
                   label: 'Thursday, Oct. 1, 2026',
-                  value: '100226',
+                  value: '100126',
                 },
                 {
                   label: 'Friday, Oct. 2, 2026',
@@ -966,7 +966,7 @@ export default async function handler(req, res, ) {
                 },
                 {
                   label: 'Thursday, Oct. 1, 2026',
-                  value: '100226',
+                  value: '100126',
                 },
                 {
                   label: 'Friday, Oct. 2, 2026',
@@ -1094,7 +1094,7 @@ export default async function handler(req, res, ) {
                 },
                 {
                   label: 'Thursday, Oct. 1, 2026',
-                  value: '100226',
+                  value: '100126',
                 },
                 {
                   label: 'Friday, Oct. 2, 2026',
