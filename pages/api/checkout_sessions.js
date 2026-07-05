@@ -27,7 +27,7 @@ export default async function handler(req, res, ) {
            line_items: [
              {
                // Provide the exact Price ID (for example, pr_1234) of the product you want to sell
-               price: 'price_1SZkvr2LiTnoM0YgpFRjvpEA', //Adults
+               price: 'price_1PbqnG2LiTnoM0YgvMgvsGl4', //Adults
                quantity: adults,
                adjustable_quantity: {
                  enabled: true,
@@ -53,36 +53,36 @@ export default async function handler(req, res, ) {
                dropdown: {
                  options: [
                    {
-                     label: 'Tuesday, Mar. 31, 2026',
-                     value: '033126',
+                     label: 'Friday, Sep. 25, 2026',
+                     value: '092526',
                    },
                    {
-                     label: 'Wednesday, Apr. 1, 2026',
-                     value: '040126',
+                     label: 'Saturday, Sep. 26, 2026',
+                     value: '092626',
                    },
                    {
-                     label: 'Thursday, Apr. 2, 2026',
-                     value: '040226',
+                     label: 'Sunday, Sep. 27, 2026',
+                     value: '092726',
                    },
                    {
-                     label: 'Friday, Apr. 3, 2026',
-                     value: '040326',
+                     label: 'Monday, Sep. 28, 2026',
+                     value: '092826',
                    },
                    {
-                     label: 'Saturday, Apr. 4, 2026',
-                     value: '040426',
+                     label: 'Tuesday, Sep. 29, 2026',
+                     value: '092926',
                    },
                    {
-                     label: 'Sunday, Apr. 5, 2026',
-                     value: '040526',
+                     label: 'Wednesday, Sep. 30, 2026',
+                     value: '100126',
                    },
                    {
-                     label: 'Monday, Apr. 6, 2026',
-                     value: '040626',
+                     label: 'Thursday, Oct. 1, 2026',
+                     value: '100126',
                    },
                    {
-                     label: 'Tuesday Apr. 7, 2026',
-                     value: '040726',
+                     label: 'Friday, Oct. 2, 2026',
+                     value: '100226',
                    },
                  ],
                },
@@ -97,28 +97,28 @@ export default async function handler(req, res, ) {
                dropdown: {
                  options: [
                    {
-                     label: 'Thursday, Apr. 2, 2026',
-                     value: '040226',
+                     label: 'Sunday, Sep. 27, 2026',
+                     value: '092726',
                    },
                    {
-                     label: 'Friday, Apr. 3, 2026',
-                     value: '040326',
+                     label: 'Monday, Sep. 28, 2026',
+                     value: '092826',
                    },
                    {
-                     label: 'Saturday, Apr. 4, 2026',
-                     value: '040426',
+                     label: 'Tuesday, Sep. 29, 2026',
+                     value: '092926',
                    },
                    {
-                     label: 'Sunday, Apr. 5, 2026',
-                     value: '040526',
+                     label: 'Wednesday, Sep. 30, 2026',
+                     value: '093026',
                    },
                    {
-                     label: 'Monday, Apr. 6, 2026',
-                     value: '040626',
+                     label: 'Thursday, Oct. 1, 2026',
+                     value: '100126',
                    },
                    {
-                     label: 'Tuesday, Apr. 7, 2026',
-                     value: '040726',
+                     label: 'Friday, Oct. 2, 2026',
+                     value: '100226',
                    },
                  ],
                },
@@ -137,7 +137,7 @@ export default async function handler(req, res, ) {
         line_items: [
           {
             // Provide the exact Price ID (for example, pr_1234) of the product you want to sell
-            price: 'price_1SZkvr2LiTnoM0YgpFRjvpEA', //Adults
+            price: 'price_1PbqnG2LiTnoM0YgvMgvsGl4', //Adults
             quantity: adults,
             adjustable_quantity: {
               enabled: true,
@@ -145,7 +145,7 @@ export default async function handler(req, res, ) {
           },
           {
             // Provide the exact Price ID (for example, pr_1234) of the product you want to sell
-            price: 'price_1SZkwl2LiTnoM0YgfkWB4PjL', //Children
+            price: 'price_1QgX212LiTnoM0YgqRJEsypf', //Children
             quantity: children,
             adjustable_quantity: {
               enabled: true,
@@ -171,36 +171,36 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Tuesday, Mar. 31, 2026',
-                  value: '033126',
+                  label: 'Friday, Sep. 25, 2026',
+                  value: '092526',
                 },
                 {
-                  label: 'Wednesday, Apr. 1, 2026',
-                  value: '040126',
+                  label: 'Saturday, Sep. 26, 2026',
+                  value: '092626',
                 },
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100126',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -215,28 +215,28 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100126',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -253,7 +253,7 @@ export default async function handler(req, res, ) {
         line_items: [
           {
             // Provide the exact Price ID (for example, pr_1234) of the product you want to sell
-            price: 'price_1SZkvr2LiTnoM0YgpFRjvpEA', //Adults
+            price: 'price_1PbqnG2LiTnoM0YgvMgvsGl4', //Adults
             quantity: adults,
             adjustable_quantity: {
               enabled: true,
@@ -261,7 +261,7 @@ export default async function handler(req, res, ) {
           },
           {
             // Provide the exact Price ID (for example, pr_1234) of the product you want to sell
-            price: 'price_1SZkwl2LiTnoM0YgfkWB4PjL', //Children
+            price: 'price_1QgX212LiTnoM0YgqRJEsypf', //Children
             quantity: children,
             adjustable_quantity: {
               enabled: true,
@@ -295,36 +295,36 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Tuesday, Mar. 31, 2026',
-                  value: '033126',
+                  label: 'Friday, Sep. 25, 2026',
+                  value: '092526',
                 },
                 {
-                  label: 'Wednesday, Apr. 1, 2026',
-                  value: '040126',
+                  label: 'Saturday, Sep. 26, 2026',
+                  value: '092626',
                 },
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Saturday, Oct. 11 2025',
-                  value: '040626',
+                  label: 'Saturday, Oct. 1 2026',
+                  value: '100126',
                 },
                 {
-                  label: 'Sunday Oct. 12, 2025',
-                  value: '040726',
+                  label: 'Sunday Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -339,28 +339,28 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Thurday, Oct. 9, 2025',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100226',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -377,7 +377,7 @@ export default async function handler(req, res, ) {
         line_items: [
           {
             // Provide the exact Price ID (for example, pr_1234) of the product you want to sell
-            price: 'price_1SZkvr2LiTnoM0YgpFRjvpEA', //Adults
+            price: 'price_1PbqnG2LiTnoM0YgvMgvsGl4', //Adults
             quantity: adults,
             adjustable_quantity: {
               enabled: true,
@@ -385,7 +385,7 @@ export default async function handler(req, res, ) {
           },
           {
             // Provide the exact Price ID (for example, pr_1234) of the product you want to sell
-            price: 'price_1SZkwl2LiTnoM0YgfkWB4PjL', //Children           
+            price: 'price_1QgX212LiTnoM0YgqRJEsypf', //Children           
              quantity: children,
             adjustable_quantity: {
               enabled: true,
@@ -432,36 +432,36 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Tuesday, Mar. 31, 2026',
-                  value: '033126',
+                  label: 'Friday, Sep. 25, 2026',
+                  value: '092526',
                 },
                 {
-                  label: 'Wednesday, Apr. 1, 2026',
-                  value: '040126',
+                  label: 'Saturday, Sep. 26, 2026',
+                  value: '092626',
                 },
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100226',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -478,28 +478,28 @@ export default async function handler(req, res, ) {
               options: [
                 
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100226',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -516,7 +516,7 @@ export default async function handler(req, res, ) {
         line_items: [
           {
             // Provide the exact Price ID (for example, pr_1234) of the product you want to sell
-            price: 'price_1SZkvr2LiTnoM0YgpFRjvpEA', //Adults
+            price: 'price_1PbqnG2LiTnoM0YgvMgvsGl4', //Adults
             quantity: adults,
             adjustable_quantity: {
               enabled: true,
@@ -551,36 +551,36 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Tuesday, Mar. 31, 2026',
-                  value: '033126',
+                  label: 'Friday, Sep. 25, 2026',
+                  value: '092526',
                 },
                 {
-                  label: 'Wednesday, Apr. 1, 2026',
-                  value: '040126',
+                  label: 'Saturday, Sep. 26, 2026',
+                  value: '092626',
                 },
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Thurday, Oct. 9, 2025',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100226',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -595,28 +595,28 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100226',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -638,7 +638,7 @@ export default async function handler(req, res, ) {
         line_items: [
           {
             // Provide the exact Price ID (for example, pr_1234) of the product you want to sell
-            price: 'price_1SZkvr2LiTnoM0YgpFRjvpEA', //Adults
+            price: 'price_1PbqnG2LiTnoM0YgvMgvsGl4', //Adults
             quantity: adults,
             adjustable_quantity: {
               enabled: true,
@@ -673,36 +673,36 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Tuesday, Mar. 31, 2026',
-                  value: '033126',
+                  label: 'Friday, Sep. 25, 2026',
+                  value: '092526',
                 },
                 {
-                  label: 'Wednesday, Apr. 1, 2026',
-                  value: '040126',
+                  label: 'Saturday, Sep. 26, 2026',
+                  value: '092626',
                 },
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100226',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -717,28 +717,28 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100226',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -759,7 +759,7 @@ export default async function handler(req, res, ) {
         line_items: [
           {
             // Provide the exact Price ID (for example, pr_1234) of the product you want to sell
-            price: 'price_1SZkwl2LiTnoM0YgfkWB4PjL', //Children            
+            price: 'price_1QgX212LiTnoM0YgqRJEsypf', //Children            
             quantity: children,
             adjustable_quantity: {
               enabled: true,
@@ -785,36 +785,36 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Tuesday, Mar. 31, 2026',
-                  value: '033126',
+                  label: 'Friday, Sep. 25, 2026',
+                  value: '092526',
                 },
                 {
-                  label: 'Wednesday, Apr. 1, 2026',
-                  value: '040126',
+                  label: 'Saturday, Sep. 26, 2026',
+                  value: '092626',
                 },
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100226',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -829,28 +829,28 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100226',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -871,7 +871,7 @@ export default async function handler(req, res, ) {
         line_items: [
           {
             // Provide the exact Price ID (for example, pr_1234) of the product you want to sell
-            price: 'price_1SZkwl2LiTnoM0YgfkWB4PjL', //Children            
+            price: 'price_1QgX212LiTnoM0YgqRJEsypf', //Children            
             quantity: children,
             adjustable_quantity: {
               enabled: true,
@@ -905,36 +905,36 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Tuesday, Mar. 31, 2026',
-                  value: '033126',
+                  label: 'Friday, Sep. 25, 2026',
+                  value: '092526',
                 },
                 {
-                  label: 'Wednesday, Apr. 1, 2026',
-                  value: '040126',
+                  label: 'Saturday, Sep. 26, 2026',
+                  value: '092626',
                 },
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100226',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -949,28 +949,28 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100226',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -991,7 +991,7 @@ export default async function handler(req, res, ) {
         line_items: [
           {
             // Provide the exact Price ID (for example, pr_1234) of the product you want to sell
-            price: 'price_1SZkwl2LiTnoM0YgfkWB4PjL', //Children            
+            price: 'price_1QgX212LiTnoM0YgqRJEsypf', //Children            
             quantity: children,
             adjustable_quantity: {
               enabled: true,
@@ -1033,36 +1033,36 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Tuesday, Mar. 31, 2026',
-                  value: '033126',
+                  label: 'Friday, Sep. 25, 2026',
+                  value: '092526',
                 },
                 {
-                  label: 'Wednesday, Apr. 1, 2026',
-                  value: '040126',
+                  label: 'Saturday, Sep. 26, 2026',
+                  value: '092626',
                 },
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100126',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040626',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -1077,28 +1077,28 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100226',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040626',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -1119,7 +1119,7 @@ export default async function handler(req, res, ) {
         line_items: [
           {
             // Provide the exact Price ID (for example, pr_1234) of the product you want to sell
-            price: 'price_1SZkwl2LiTnoM0YgfkWB4PjL', //Children            
+            price: 'price_1QgX212LiTnoM0YgqRJEsypf', //Children            
             quantity: children,
             adjustable_quantity: {
               enabled: true,
@@ -1154,36 +1154,36 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Tuesday, Mar. 31, 2026',
-                  value: '033126',
+                  label: 'Friday, Sep. 25, 2026',
+                  value: '092526',
                 },
                 {
-                  label: 'Wednesday, Apr. 1, 2026',
-                  value: '040126',
+                  label: 'Saturday, Sep. 26, 2026',
+                  value: '092626',
                 },
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100126',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -1198,28 +1198,28 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '100126',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100126',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -1266,36 +1266,36 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Tuesday, Mar. 31, 2026',
-                  value: '033126',
+                  label: 'Friday, Sep. 25, 2026',
+                  value: '092526',
                 },
                 {
-                  label: 'Wednesday, Apr. 1, 2026',
-                  value: '040126',
+                  label: 'Saturday, Sep. 26, 2026',
+                  value: '092626',
                 },
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100126',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -1310,28 +1310,28 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100126',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -1352,7 +1352,7 @@ export default async function handler(req, res, ) {
         line_items: [
           {
             // Provide the exact Price ID (for example, pr_1234) of the product you want to sell
-            price: 'price_1SZkvr2LiTnoM0YgpFRjvpEA', //Adults
+            price: 'price_1PbqnG2LiTnoM0YgvMgvsGl4', //Adults
             quantity: adults,
             adjustable_quantity: {
               enabled: true,
@@ -1386,36 +1386,36 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Tuesday, Mar. 31, 2026',
-                  value: '033126',
+                  label: 'Friday, Sep. 25, 2026',
+                  value: '092526',
                 },
                 {
-                  label: 'Wednesday, Apr. 1, 2026',
-                  value: '040126',
+                  label: 'Saturday, Sep. 26, 2026',
+                  value: '092626',
                 },
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100126',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -1430,28 +1430,28 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100126',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -1472,7 +1472,7 @@ export default async function handler(req, res, ) {
         line_items: [
           {
             // Provide the exact Price ID (for example, pr_1234) of the product you want to sell
-            price: 'price_1SZkvr2LiTnoM0YgpFRjvpEA', //Adults
+            price: 'price_1PbqnG2LiTnoM0YgvMgvsGl4', //Adults
             quantity: adults,
             adjustable_quantity: {
               enabled: true,
@@ -1514,36 +1514,36 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Tuesday, Mar. 31, 2026',
-                  value: '033126',
+                  label: 'Friday, Sep. 25, 2026',
+                  value: '092526',
                 },
                 {
-                  label: 'Wednesday, Apr. 1, 2026',
-                  value: '040126',
+                  label: 'Saturday, Sep. 26, 2026',
+                  value: '092626',
                 },
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100126',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -1558,28 +1558,28 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100126',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -1600,7 +1600,7 @@ export default async function handler(req, res, ) {
         line_items: [
           {
             // Provide the exact Price ID (for example, pr_1234) of the product you want to sell
-            price: 'price_1SZkvr2LiTnoM0YgpFRjvpEA', //Adults
+            price: 'price_1PbqnG2LiTnoM0YgvMgvsGl4', //Adults
             quantity: adults,
             adjustable_quantity: {
               enabled: true,
@@ -1642,36 +1642,36 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Tuesday, Mar. 31, 2026',
-                  value: '033126',
+                  label: 'Friday, Sep. 25, 2026',
+                  value: '092526',
                 },
                 {
-                  label: 'Wednesday, Apr. 1, 2026',
-                  value: '040126',
+                  label: 'Saturday, Sep. 26, 2026',
+                  value: '092626',
                 },
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100126',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -1686,28 +1686,28 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100126',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -1754,36 +1754,36 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Tuesday, Mar. 31, 2026',
-                  value: '033126',
+                  label: 'Friday, Sep. 25, 2026',
+                  value: '092526',
                 },
                 {
-                  label: 'Wednesday, Apr. 1, 2026',
-                  value: '040126',
+                  label: 'Saturday, Sep. 26, 2026',
+                  value: '092626',
                 },
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100126',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -1798,28 +1798,28 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100126',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
 
               ],
@@ -1875,36 +1875,36 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Tuesday, Mar. 31, 2026',
-                  value: '033126',
+                  label: 'Friday, Sep. 25, 2026',
+                  value: '092526',
                 },
                 {
-                  label: 'Wednesday, Apr. 1, 2026',
-                  value: '040126',
+                  label: 'Saturday, Sep. 26, 2026',
+                  value: '092626',
                 },
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100126',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -1919,28 +1919,28 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100126',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -1977,7 +1977,7 @@ export default async function handler(req, res, ) {
           },
           {
             // Provide the exact Price ID (for example, pr_1234) of the product you want to sell
-            price: 'price_1SZkvr2LiTnoM0YgpFRjvpEA', //Adults
+            price: 'price_1PbqnG2LiTnoM0YgvMgvsGl4', //Adults
             quantity: adults,
             adjustable_quantity: {
               enabled: true,
@@ -2003,36 +2003,36 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Tuesday, Mar. 31, 2026',
-                  value: '033126',
+                  label: 'Friday, Sep. 25, 2026',
+                  value: '092526',
                 },
                 {
-                  label: 'Wednesday, Apr. 1, 2026',
-                  value: '040126',
+                  label: 'Saturday, Sep. 26, 2026',
+                  value: '092626',
                 },
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100126',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -2047,28 +2047,28 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100126',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -2084,7 +2084,7 @@ export default async function handler(req, res, ) {
         line_items: [
           {
             // Provide the exact Price ID (for example, pr_1234) of the product you want to sell
-            price: 'price_1SZkvr2LiTnoM0YgpFRjvpEA', //Adults
+            price: 'price_1PbqnG2LiTnoM0YgvMgvsGl4', //Adults
             quantity: adults,
             adjustable_quantity: {
               enabled: true,
@@ -2100,7 +2100,7 @@ export default async function handler(req, res, ) {
           },
           {
             // Provide the exact Price ID (for example, pr_1234) of the product you want to sell
-            price: 'price_1SZkwl2LiTnoM0YgfkWB4PjL', //Children
+            price: 'price_1QgX212LiTnoM0YgqRJEsypf', //Children
             quantity: children,
             adjustable_quantity: {
               enabled: true,
@@ -2126,36 +2126,36 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Tuesday, Mar. 31, 2026',
-                  value: '033126',
+                  label: 'Friday, Sep. 25, 2026',
+                  value: '092526',
                 },
                 {
-                  label: 'Wednesday, Apr. 1, 2026',
-                  value: '040126',
+                  label: 'Saturday, Sep. 26, 2026',
+                  value: '092626',
                 },
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100126',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
@@ -2170,28 +2170,28 @@ export default async function handler(req, res, ) {
             dropdown: {
               options: [
                 {
-                  label: 'Thursday, Apr. 2, 2026',
-                  value: '040226',
+                  label: 'Sunday, Sep. 27, 2026',
+                  value: '092726',
                 },
                 {
-                  label: 'Friday, Apr. 3, 2026',
-                  value: '040326',
+                  label: 'Monday, Sep. 28, 2026',
+                  value: '092826',
                 },
                 {
-                  label: 'Saturday, Apr. 4, 2026',
-                  value: '040426',
+                  label: 'Tuesday, Sep. 29, 2026',
+                  value: '092926',
                 },
                 {
-                  label: 'Sunday, Apr. 5, 2026',
-                  value: '040526',
+                  label: 'Wednesday, Sep. 30, 2026',
+                  value: '093026',
                 },
                 {
-                  label: 'Monday, Apr. 6, 2026',
-                  value: '040626',
+                  label: 'Thursday, Oct. 1, 2026',
+                  value: '100126',
                 },
                 {
-                  label: 'Tuesday, Apr. 7, 2026',
-                  value: '040726',
+                  label: 'Friday, Oct. 2, 2026',
+                  value: '100226',
                 },
               ],
             },
